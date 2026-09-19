@@ -26,7 +26,7 @@ export const Profil: React.FC<ProfilProps> = ({ onSelectOfficial }) => {
         <div className="grid grid-cols-1 md:grid-cols-2 gap-8 md:gap-12 items-center">
           <div className="relative h-72 md:h-88 rounded-2xl overflow-hidden shadow-sm hover:shadow-md transition-shadow duration-300 border border-[#c1c8c2]/30 group">
             <img
-              src="public/srandul-sejarah-dusun.JPG"
+              src="/srandul-sejarah-dusun.JPG"
               alt="Kerajinan anyaman bambu Dusun Gatak"
               className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-700"
             />
