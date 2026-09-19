@@ -117,7 +117,7 @@ Dengan penuh antusias, para pemuda bahu-membahu mendirikan tenda, menata stan, d
 Bapak Haris Yuwana selaku Kepala Dusun menyampaikan apresiasi yang setinggi-tingginya kepada seluruh lapisan masyarakat yang hadir mendukung. "Kegiatan gotong royong dalam bentuk bazar seperti ini tidak hanya sekadar ajang pengumpulan dana, tetapi juga mempererat silaturahmi dan memupuk rasa bangga terhadap potensi pemuda-pemudi dusun tercinta," tuturnya saat memberikan sambutan pada pembukaan bazar.
 
 Setelah rangkaian acara bazar selesai dan berjalan sukses, para pemuda panitia beserta warga yang hadir menikmati hidangan tradisional berupa nasi tumpeng dan es kelapa muda yang telah disiapkan oleh ibu-ibu PKK Dusun Gatak di area sekitar stan.`,
-    image: '/bazar1.JPG',
+    image: '/bazar1.jpg',
     category: 'Kegiatan Desa',
     author: 'Tim Redaksi Dusun',
     readTime: '4 menit baca'
