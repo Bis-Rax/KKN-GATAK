@@ -81,7 +81,7 @@ export const Profil: React.FC<ProfilProps> = ({ onSelectOfficial }) => {
           >
             <div className="w-28 h-28 rounded-full overflow-hidden shrink-0 border-2 border-[#012d1d]/20 group-hover:border-[#012d1d] transition-colors relative shadow-inner">
               <img
-                src="public/dukuh.JPG"
+                src="/dukuh.JPG"
                 alt={dukuh.name}
                 className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500"
               />

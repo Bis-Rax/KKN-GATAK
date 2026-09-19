@@ -51,7 +51,7 @@ export const VILLAGE_OFFICIALS: Official[] = [
     id: 'dukuh',
     name: 'Bapak Haris Yuwana',
     role: 'Kepala Dusun (Dukuh)',
-    image: 'public/dukuh.JPG',
+    image: '/dukuh.JPG',
     phone: '-',
     bio: 'Memimpin Dusun Gatak sejak tahun 2018 dengan komitmen memperkuat ekonomi warga, melestarikan tradisi gotong royong, dan membangun transparansi pemerintahan dusun.',
     workDays: 'Senin - Jumat (08:00 - 15:00 WIB)'
@@ -60,7 +60,7 @@ export const VILLAGE_OFFICIALS: Official[] = [
     id: 'rt01',
     name: 'Bapak Sukardi',
     role: 'Ketua RT 01',
-    image: 'public/rt1.JPG',
+    image: '/rt1.JPG',
     phone: '-',
     bio: 'Mengkoordinasikan kegiatan lingkungan RT 01, keamanan pos ronda, serta layanan administrasi administrasi warga RT 01.',
     workDays: 'Setiap Hari (Sesuai Janji Temu)'
@@ -69,7 +69,7 @@ export const VILLAGE_OFFICIALS: Official[] = [
     id: 'rt02',
     name: 'Bapak Ma`ruf',
     role: 'Ketua RT 02',
-    image: 'public/rt2.jpg',
+    image: '/rt2.jpg',
     phone: '-',
     bio: 'Mengayomi kegiatan Dasawisma, PKK, dan kesejahteraan ibu & anak di lingkungan RT 02 Dusun Gatak.',
     workDays: 'Senin - Sabtu'
@@ -78,7 +78,7 @@ export const VILLAGE_OFFICIALS: Official[] = [
     id: 'rw09',
     name: 'Bapak Sungkono',
     role: 'Ketua RW 09',
-    image: 'public/rw09.jpg',
+    image: '/rw09.jpg',
     phone: '-',
     bio: 'Penggerak pemuda dusun dalam kegiatan olahraga, inovasi digital UMKM.',
     workDays: 'Setiap Akhir Pekan & Kegiatan Malam'
@@ -87,7 +87,7 @@ export const VILLAGE_OFFICIALS: Official[] = [
     id: 'rw10',
     name: 'Bapak Endro Widyanto',
     role: 'Ketua RW 10',
-    image: 'public/rw10.jpg',
+    image: '/rw10.jpg',
     phone: '-',
     bio: 'Penggerak aksi hijau pemuda, fasilitator digitalisasi UMKM, dan pendorong potensi lokal dusun.',
     workDays: 'Setiap Akhir Pekan & Kegiatan Malam'
@@ -96,7 +96,7 @@ export const VILLAGE_OFFICIALS: Official[] = [
     id: 'margomulyo',
     name: 'Bapak Gunawan',
     role: 'Ketua Yayasan Margomulyo',
-    image: 'public/ketua-margomulyo.jpg',
+    image: '/ketua-margomulyo.jpg',
     phone: '-',
     bio: 'Merawat tradisi Srandul, menggerakkan pemuda dusun, dan membumikan budaya lokal.',
     workDays: 'Setiap Akhir Pekan & Kegiatan Malam'
@@ -117,7 +117,7 @@ Dengan penuh antusias, para pemuda bahu-membahu mendirikan tenda, menata stan, d
 Bapak Haris Yuwana selaku Kepala Dusun menyampaikan apresiasi yang setinggi-tingginya kepada seluruh lapisan masyarakat yang hadir mendukung. "Kegiatan gotong royong dalam bentuk bazar seperti ini tidak hanya sekadar ajang pengumpulan dana, tetapi juga mempererat silaturahmi dan memupuk rasa bangga terhadap potensi pemuda-pemudi dusun tercinta," tuturnya saat memberikan sambutan pada pembukaan bazar.
 
 Setelah rangkaian acara bazar selesai dan berjalan sukses, para pemuda panitia beserta warga yang hadir menikmati hidangan tradisional berupa nasi tumpeng dan es kelapa muda yang telah disiapkan oleh ibu-ibu PKK Dusun Gatak di area sekitar stan.`,
-    image: 'public/bazar1.JPG',
+    image: '/bazar1.JPG',
     category: 'Kegiatan Desa',
     author: 'Tim Redaksi Dusun',
     readTime: '4 menit baca'
@@ -156,7 +156,7 @@ Tiga tahun mungkin belum cukup untuk menyebut sebuah kegiatan sebagai tradisi ya
 Dari seni, kebersamaan, hingga keterlibatan generasi muda, Nata Asta #3 menjadi bukti bahwa Desa Gatak punya caranya sendiri dalam merayakan kemerdekaan bukan lewat seremoni semata, melainkan lewat panggung yang dibangun bersama, dari tangan-tangan yang saling menata. Dan selama semangat itu terus dijaga, cerita Nata Asta hampir pasti akan berlanjut di tahun-tahun berikutnya.
 
 `,
-    image: 'public/nataasta1.jpeg',
+    image: '/nataasta1.jpeg',
     category: 'Kegiatan Desa',
     author: 'Tim KKN-M UNY Dusun Gatak 2026',
     readTime: '8 menit baca'
@@ -183,7 +183,7 @@ Respons pengunjung malam itu menunjukkan tingginya antusiasme terhadap ECOSNAP. 
 
 Untuk memastikan kualitas hasil foto yang maksimal bagi warga, kelompok KKN berkolaborasi dengan salah satu vendor photobooth, Tarunika Photobooth, yang bertugas mengoperasikan kamera dan percetakan foto di lokasi. Kolaborasi ini menyelaraskan dekorasi daur ulang ECOSNAP karya mahasiswa dengan layanan profesional, sehingga menghadirkan fasilitas hiburan yang tak hanya menghibur, tetapi juga memberi pesan edukatif yang berkesan bagi warga Gatak dan sekitarnya. Langkah kecil memilah dan mengolah sampah ternyata mampu menciptakan ruang interaksi yang hangat sekaligus ramah lingkungan.
 `,
-    image: 'public/ecosnap.jpeg',
+    image: '/ecosnap.jpeg',
     category: 'Program Kerja KKN',
     author: 'Tim KKN-M UNY Dusun Gatak 2026',
     readTime: '6 menit baca'
@@ -197,7 +197,7 @@ export const UMKM_PRODUCTS: UmkmProduct[] = [
     category: 'Kuliner',
     price: 'Rp 10.000+',
     rating: 4.7,
-    image: 'public/jamuslamet.png',
+    image: '/jamuslamet.png',
     description: 'Rempah lokal pilihan hasil bumi Dusun Gatak yang diracik dan diolah secara tradisional oleh Bu Slamet, menghasilkan Jamu dengan khasiat mantap dan cita rasa otentik yang menyegarkan badan.',
     seller: 'Jamu Tradisional Bu Slamet',
     whatsapp: '-',
@@ -216,7 +216,7 @@ export const FOUNDATION_PROGRAMS: FoundationProgram[] = [
     title: 'Taman Kanak-Kanak (TK) Margomulyo',
     category: 'Pendidikan',
     icon: 'school',
-    image: 'public/tkmargomulyo.jpeg',
+    image: '/tkmargomulyo.jpeg',
     description: 'Program pendidikan usia dini yang berfokus pada pembentukan karakter dasar, kreativitas, dan kesiapan kognitif anak-anak Dusun Gatak. Kami menyediakan fasilitas yang aman dan tenaga pengajar yang berdedikasi.',
     fullDetails: 'Yayasan Dusun Gatak mendirikan TK ini untuk memastikan setiap anak di desa memiliki akses pendidikan anak usia dini yang berkualitas, ramah anak, dan berbasis kearifan lokal. Pembelajaran menggabungkan stimulasi motorik, pengenalan lingkungan alam desa, serta penanaman budi pekerti gotong royong.',
     activities: [
@@ -231,7 +231,7 @@ export const FOUNDATION_PROGRAMS: FoundationProgram[] = [
     title: 'Kesenian Srandul',
     category: 'Budaya',
     icon: 'theater_comedy',
-    image: 'public/srandul-yayasan.JPG',
+    image: '/srandul-yayasan.JPG',
     description: 'Upaya pelestarian kesenian tradisional Srandul melalui pelatihan rutin bagi generasi muda. Program ini bertujuan menjaga identitas lokal dan memperkenalkan kekayaan budaya Dusun Gatak kepada khalayak luas.',
     fullDetails: 'Srandul merupakan kesenian dramatari rakyat khas daerah yang memadukan dialog humor spiritual, tarian naratif, dan musik gamelan tradisional. Yayasan secara rutin menyelenggarakan latihan terbuka di Balai Dusun setiap Sabtu malam dan mengikutsertakan seniman muda dalam festival budaya daerah.',
     activities: [
